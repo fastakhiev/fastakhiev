@@ -37,9 +37,10 @@ style="width:100%; display:flex; flex-direction:row; justify-content:center; ali
 ![MinIO](https://img.shields.io/static/v1?style=for-the-badge&message=MinIO&color=FB7A24&logo=MinIO&logoColor=FFFFFF&label=)
 ![aiohttp](https://img.shields.io/static/v1?style=for-the-badge&message=aiohttp&color=2C5BB4&logo=aiohttp&logoColor=FFFFFF&label=)
 
-### Mobile  
-![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)  
-![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)  
+### Mobile
+
+![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
+![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=FFCA28&logo=Firebase&logoColor=FFFFFF&label=)
-![Bloc](https://img.shields.io/static/v1?style=for-the-badge&message=Bloc&color=0088CC&logo=Bloc&logoColor=FFFFFF&label=)  
-![GetX](https://img.shields.io/static/v1?style=for-the-badge&message=GetX&color=68B684&logo=GetX&logoColor=FFFFFF&label=)  
+![Bloc](https://img.shields.io/static/v1?style=for-the-badge&message=Bloc&color=0088CC&logo=Bloc&logoColor=FFFFFF&label=)
+![GetX](https://img.shields.io/static/v1?style=for-the-badge&message=GetX&color=68B684&logo=GetX&logoColor=FFFFFF&label=)
