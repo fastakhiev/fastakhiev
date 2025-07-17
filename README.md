@@ -17,7 +17,7 @@ style="width:100%; display:flex; flex-direction:row; justify-content:center; ali
 
 - 3 years in commercial development
 - Backend Developer at [Medsi](https://medsi.com/)
-- Mobile & Backend developer at [Thothex](https://thothex.com/)
+- Mobile & Backend developer at [MedBI](https://medbi.ru/)
 - Student at [ITMO](https://itmo.ru/) Bachelor «Infochemistry»
 
 ## 🛠 Tech Stack
