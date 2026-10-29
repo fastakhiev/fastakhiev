@@ -15,7 +15,7 @@ style="width:100%; display:flex; flex-direction:row; justify-content:center; ali
 ### <div align="center">I am Sultan Fastakhiev. <br> Mobile & Backend Developer 👨‍💻</div>
 
 
-- 3 years in commercial development
+- 4 years in commercial development
 - Backend Developer at [Medsi](https://medsi.com/)
 - Backend developer at [MedBI](https://medbi.ru/)
 - Student at [ITMO](https://itmo.ru/) Bachelor «Infochemistry»
